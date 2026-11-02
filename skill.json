@@ -1,0 +1,14 @@
+{
+  "name": "diagram-design",
+  "version": "1.0.0",
+  "description": "Create professional, light-themed diagrams (45 visual types) as standalone HTML with inline SVG",
+  "author": "custom",
+  "entry": "skills/diagram-design/SKILL.md",
+  "skills": [
+    {
+      "name": "diagram-design",
+      "path": "skills/diagram-design",
+      "description": "Create diagrams as self-contained HTML files with inline SVG and an editorial design system."
+    }
+  ]
+}
