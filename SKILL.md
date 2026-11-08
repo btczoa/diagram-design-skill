@@ -45,6 +45,13 @@ Applied to schematics:
 
 **Target density: 4/10.** Enough to be technically complete. Not so dense it needs a guide. Above 9 nodes, it's probably two diagrams.
 
+### Diagram Generation Style Guidelines (Architecture / Infographics)
+When generating architecture diagrams, workflow charts, or system visual assets:
+1. **Layout**: Adapt the layout flexibly (vertical top-down, horizontal left-to-right, or modular grid) based on system hierarchy, data flow, and readability requirements, using clear directional connectors/arrows.
+2. **Aesthetics**: Clean, minimalist vector style with a solid white background. No cluttered elements or excessive gradients.
+3. **Color Coding**: Use a harmonious tech palette (vibrant blue, soft purple, fresh green) where each architectural layer has a distinct, consistent color.
+4. **Typography & Icons**: Every card must feature a bold, legible title, a smaller secondary description, and a minimalist line-art icon on the left.
+
 ---
 
 ## 2. When to Use
